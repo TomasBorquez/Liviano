@@ -4,7 +4,7 @@ import { cors } from "../../src/cors";
 
 describe("Cors Middleware", () => {
   const app = new Liviano();
-  const PORT = 1002;
+  const PORT = 3002;
   const url = (path: string) => `http://localhost:${PORT}${path}`;
 
   const ALLOWED_ORIGIN = "https://allowed-origin.com";

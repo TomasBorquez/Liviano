@@ -5,7 +5,7 @@ import { HTTPException } from "../../src/http-exception";
 import { cors } from "../../src/cors";
 
 const app = new Liviano();
-const PORT = 3000;
+const PORT = 3003;
 const ALLOWED_ORIGIN = "https://allowed-origin.com";
 const DISALLOWED_ORIGIN = "https://disallowed-origin.com";
 describe("Example one - Full application", () => {

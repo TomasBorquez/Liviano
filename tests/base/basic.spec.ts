@@ -6,7 +6,7 @@ const METHODS = ["GET", "POST", "PUT", "PATCH", "DELETE"];
 describe("Basic", () => {
   describe("NORMAL METHODS", () => {
     const app = new Liviano();
-    const PORT = 1000;
+    const PORT = 3000;
 
     app.basePath("/api");
     const url = (path: string) => `http://localhost:${PORT}/api${path}`;
@@ -39,7 +39,7 @@ describe("Basic", () => {
 
   describe("ALL", () => {
     const app = new Liviano();
-    const PORT = 1001;
+    const PORT = 3001;
 
     app.basePath("/api");
     const url = (path: string) => `http://localhost:${PORT}/api${path}`;

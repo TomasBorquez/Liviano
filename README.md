@@ -1,5 +1,5 @@
 <div>
-    <img src="https://path-to-your-logo/logo.png" width="500" height="auto" alt="Liviano"/>
+    <img src="https://cdn.discordapp.com/attachments/1041386176583585884/1196046568642584626/Liviano.png?ex=65b6342b&is=65a3bf2b&hm=d8c8d6d8af0505fcab39f9aa8f37ddc60a766249b9812d53450dab5d70270ea5&" width="500" height="auto" alt="Liviano"/>
 </div>
 
 <hr />

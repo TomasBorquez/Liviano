@@ -4,6 +4,8 @@
 
 <hr />
 
+[![Tests](https://github.com/TomasBorquez/Liviano/actions/workflows/test.yml/badge.svg)](https://github.com/TomasBorquez/Liviano/actions/workflows/test.yml)
+
 **Liviano** - _**\[Light\] in Spanish**_ - is a lightweight, flexible,
 and easy-to-use web framework for modern web development. It's designed
 to offer a delightful developer experience while being robust and efficient

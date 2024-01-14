@@ -5,6 +5,7 @@
 <hr />
 
 [![Tests](https://github.com/TomasBorquez/Liviano/actions/workflows/test.yml/badge.svg)](https://github.com/TomasBorquez/Liviano/actions/workflows/test.yml)
+[![CircleCI](https://dl.circleci.com/status-badge/img/circleci/96xHgS8JRqbMAUTEG1WBiu/VquhWHoTEEJc9JZZwGhxeg/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/circleci/96xHgS8JRqbMAUTEG1WBiu/VquhWHoTEEJc9JZZwGhxeg/tree/main)
 
 **Liviano** - _**\[Light\] in Spanish**_ - is a lightweight, flexible,
 and easy-to-use web framework for modern web development. It's designed

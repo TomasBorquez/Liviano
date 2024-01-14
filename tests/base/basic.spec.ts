@@ -39,7 +39,7 @@ describe("Basic", () => {
 
   describe("ALL", () => {
     const app = new Liviano();
-    const PORT = 3001;
+    const PORT = 3010;
 
     app.basePath("/api");
     const url = (path: string) => `http://localhost:${PORT}/api${path}`;

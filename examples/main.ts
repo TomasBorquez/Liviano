@@ -51,7 +51,7 @@ app.notFound((c) => {
   c.json({ message: "What are you doing here? 🤔" });
 });
 
-const PORT = 3000;
+const PORT = 3001;
 app.listen(PORT, () => {
   console.log(`Listening to ${PORT}`);
 });

@@ -1,9 +1,3 @@
-<div align="center">
-    <img src="https://cdn.discordapp.com/attachments/1041386176583585884/1196046568642584626/Liviano.png?ex=65b6342b&is=65a3bf2b&hm=d8c8d6d8af0505fcab39f9aa8f37ddc60a766249b9812d53450dab5d70270ea5&" width="500" height="auto" alt="Liviano"/>
-</div>
-
-<hr />
-
 [![Tests](https://github.com/TomasBorquez/Liviano/actions/workflows/test.yml/badge.svg)](https://github.com/TomasBorquez/Liviano/actions/workflows/test.yml)
 
 **Liviano** - _**\[Light\] in Spanish**_ - is a lightweight, flexible,
